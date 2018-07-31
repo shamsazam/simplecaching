@@ -1,0 +1,25 @@
+{
+  "name": "simplecaching",
+  "version": "1.0.0",
+  "description": "A simple in-memory cache in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamsazam/simplecaching.git"
+  },
+  "keywords": [
+    "cache",
+    "javascript",
+    "caching",
+    "nodejs"
+  ],
+  "author": "Mohammad Shams Azam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shamsazam/simplecaching/issues"
+  },
+  "homepage": "https://github.com/shamsazam/simplecaching#readme"
+}
