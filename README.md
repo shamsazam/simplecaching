@@ -20,4 +20,4 @@ console.log("name is ",name);
 
 ## Prerequisites
 
-- Node.js 5.0 or higher
+- NodeJS 6 or higher
